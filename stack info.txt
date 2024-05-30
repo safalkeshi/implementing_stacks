@@ -1,0 +1,22 @@
+page must be accessible to multiple user
+First single user interact 
+option 1 view parking
+option 2 enter parking
+provide unique code
+
+
+option 3 exit parking
+condition(unique code after enter determine cost)
+after option 3 only execute option 4 
+option 4 pay 
+payers info gets destroyed
+
+update
+option 1 display
+
+
+
+special function
+add audio with captions on 
+
+
