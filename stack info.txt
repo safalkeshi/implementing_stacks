@@ -20,3 +20,23 @@ special function
 add audio with captions on 
 
 
+
+
+
+li{
+    margin-top: 10px;
+    padding-left: -50px;
+    list-style-type: none;
+    display: flex;
+    justify-content:space-around;
+    
+}
+.Empty,.Parked,.Selected{
+    justify-content: space-around;
+    flex-direction: row;
+    width: 20px;
+    height: 20px;
+    border-top-left-radius:10px;
+    border-top-right-radius: 10px;
+    
+}
